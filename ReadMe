@@ -1,5 +1,5 @@
 Faça uma alteração no arquivo \Sicredi\Base\Driver.cs
 linha: Browser = new ChromeDriver(@"C:\Users\Theilor\Desktop\test\Sicredi\Resources");
-Chromedriver está incluso, mas o path precisa ser atualizado o correto na sua maquina local.
+Chromedriver está incluso, mas o path precisa ser atualizado para o correto na sua maquina local.
 
 Após, basta abrir a solution com o Visual Studio e mandar buildar. Os testes aparecerão no Test Explorer e podem ser rodados por ali.

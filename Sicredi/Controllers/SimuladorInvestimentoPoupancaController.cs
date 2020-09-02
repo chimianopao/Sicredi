@@ -12,12 +12,12 @@ namespace Sicredi.Controllers
         public enum Tempo { Meses, Anos };
 
         SimuladorInvestimentoPoupancaViewMap map = new SimuladorInvestimentoPoupancaViewMap();
-        public void FazSimulacao(double valorAplicacao, double valorPorMes, double valorTempo, Tempo unidadeTempo)
+        public void FazSimulacao(double valorAplicacao, double valorPorMes, int valorTempo, Tempo unidadeTempo)
         {
             base.Navigate();
             map.InputValorAplicacao.SendKeys(valorAplicacao.ToString("#.00"));
             map.InputValorPorMes.SendKeys(valorPorMes.ToString("#.00"));
-            map.InputTempo.SendKeys(valorTempo.ToString("#.00"));
+            map.InputTempo.SendKeys(valorTempo.ToString());
             
             if (unidadeTempo == Tempo.Anos) { 
                 map.DropDownTempo(unidadeTempo.ToString());

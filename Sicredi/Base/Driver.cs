@@ -58,7 +58,7 @@ namespace Sicredi.Base
 
         public static void StartBrowser(int defaultTimeOut = 60)
         {
-            Browser = new ChromeDriver();
+            Browser = new ChromeDriver(@"C:\Users\Theilor\Desktop\test\Sicredi\Resources");
 
             BrowserWait = new WebDriverWait(Browser, TimeSpan.FromSeconds(240));
             SeleniumActions = new Actions(Browser);

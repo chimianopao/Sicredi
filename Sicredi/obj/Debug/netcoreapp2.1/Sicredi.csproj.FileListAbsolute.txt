@@ -1,0 +1,13 @@
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Sicredi.deps.json
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Sicredi.runtimeconfig.json
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Sicredi.runtimeconfig.dev.json
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Sicredi.dll
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\bin\Debug\netcoreapp2.1\Sicredi.pdb
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\obj\Debug\netcoreapp2.1\Sicredi.csproj.CoreCompileInputs.cache
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\obj\Debug\netcoreapp2.1\Sicredi.AssemblyInfoInputs.cache
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\obj\Debug\netcoreapp2.1\Sicredi.AssemblyInfo.cs
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\obj\Debug\netcoreapp2.1\Sicredi.dll
+C:\Users\Theilor\Desktop\kiko\Sicredi\Sicredi\obj\Debug\netcoreapp2.1\Sicredi.pdb

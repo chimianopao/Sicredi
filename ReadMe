@@ -1,5 +1,6 @@
 Faça uma alteração no arquivo \Sicredi\Base\Driver.cs
 linha: Browser = new ChromeDriver(@"C:\Users\Theilor\Desktop\test\Sicredi\Resources");
 Chromedriver está incluso, mas o path precisa ser atualizado para o correto na sua maquina local.
+PS: O Chromedriver do projeto é para a versão 83 do Chrome. Em caso de conflito de versão, é possível baixar a versão correta aqui: https://chromedriver.chromium.org/downloads
 
 Após, basta abrir a solution com o Visual Studio e mandar buildar. Os testes aparecerão no Test Explorer e podem ser rodados por ali.
